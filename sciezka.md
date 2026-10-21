@@ -28,5 +28,6 @@
 
 ### Zainteresowania
 
-| Zainteresowanie | Lego | Motoryzacja | Gry  |          
-| Czy przydatne?  | Nie  | nie         | może |
+> Lego
+> motoryzacja
+> Gry
