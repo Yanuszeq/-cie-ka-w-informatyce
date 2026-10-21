@@ -8,7 +8,7 @@
 
 ### Dlaczego ten kierunek?
 
-> Informatyka jest bardzo ciekawa, po ukończeniu studiów otwiera wiele drzwi i może zapewnić dobrą poracę 
+> Informatyka jest bardzo ciekawa, po ukończeniu studiów otwiera wiele drzwi i może zapewnić dobrą pracę 
 
 ### A tak serio czemu informatyka?
 
@@ -28,6 +28,6 @@
 
 ### Zainteresowania
 
-> Lego
-> motoryzacja
-> Gry
+> - Lego
+> - motoryzacja
+> - Gry
